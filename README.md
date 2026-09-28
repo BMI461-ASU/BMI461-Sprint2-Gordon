@@ -4,6 +4,8 @@ Anonymous symptom reporting and a live cluster dashboard for campus syndromic su
 
 Built with plain HTML, CSS and JavaScript. Reports are stored in Firebase Cloud Firestore and the site is hosted free on GitHub Pages.
 
+This project and associated documentation was generated with Anthropic’s Claude LLM.
+
 ## Files
 
 | File | What it does |
